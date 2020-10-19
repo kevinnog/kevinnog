@@ -16,14 +16,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-## 𝗦𝘁ats
+## Stats
 
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinnog&show_icons=true&theme=gotham&count_private=true&hide=stars)
-<br/>
-
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnog&count_private=true&theme=gotham&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
