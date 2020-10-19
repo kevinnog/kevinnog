@@ -3,6 +3,7 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React-Native](https://img.shields.io/badge/-React-Native-%23CC6699?style=flat-square&logo=react-native&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231a202c?style=flat-square&logo=typescript)
