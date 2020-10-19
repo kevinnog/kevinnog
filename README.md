@@ -25,5 +25,5 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnog&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnog&count_private=true&theme=gotham?hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
