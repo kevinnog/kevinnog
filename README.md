@@ -24,14 +24,14 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/kevinnog/READE.md">
+  <a href="https://github.com/kevinnog/kevinnog">
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=kevinnog&show_icons=true&theme=gotham&count_private=true&hide=stars" />
   </a>
 </p>
 
 <br>
 <p align="center">
-<a href="https://github.com/kevinnog/READE.md">
+<a href="https://github.com/kevinnog/kevinnog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnog&count_private=true&theme=gotham" />
 </a>
 </p>
