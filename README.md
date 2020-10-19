@@ -11,9 +11,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%231a202c?style=flat-square&logo=typescript)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinnog&show_icons=true&theme=gradient&count_private=true&hide=stars)
