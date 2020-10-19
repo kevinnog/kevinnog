@@ -20,7 +20,7 @@
 
 <br>
 
-<a href="https://github.com/kevinnog/readme">
+<a align="center" href="https://github.com/kevinnog/readme">
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=kevinnog&show_icons=true&theme=gotham&count_private=true&hide=stars" />
 </a>
 
