@@ -42,9 +42,8 @@
 
 [![](https://img.shields.io/badge/-@kevinnog-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/kevinnog)
 [![](https://img.shields.io/badge/-@kevinnog-%23181717?style=flat-square&logo=github)](https://github.com/kevinnog)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=google-messages)]
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-Kevin Nogueira-%231572B6?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kevin-nogueira-costa-403536104/)
+![](https://img.shields.io/badge/-kevinnog@outlook.com.br-%23000000?style=flat-square&logo=google-messages)
 
 </div>
 
