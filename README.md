@@ -24,8 +24,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinnog&show_icons=true&theme=gotham&count_private=true&hide=stars" />
 </a>
 
+<a href="https://github.com/kevinnog/READE.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnog&count_private=true&theme=gotham&hide=css,html" />
+</a>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnog&count_private=true&theme=gotham&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
