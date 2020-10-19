@@ -3,7 +3,7 @@
 <br>
 
 ## 𝗦𝘁𝗮𝗰𝗸
-<p align="center">
+
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2300C7B7?style=flat-square&logo=MongoDB&logoColor=ffffff)
@@ -16,10 +16,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-</p>
 
+<p align="center">
 ## Stats
-
+</p>
 <br>
 
 <p align="center">
