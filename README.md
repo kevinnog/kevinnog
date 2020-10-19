@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
 
 <br>
 
@@ -17,9 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 
-<p align="center">
-## Stats
-</p>
+<h1 align='center'> Stats </h1>
 <br>
 
 <p align="center">
