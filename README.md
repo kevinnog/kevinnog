@@ -1,8 +1,8 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi there! :wave:</h1>
 
 <br>
 
-<h1 align='center'> Stack </h1>
+<h2 align='center'> Stack </h2>
 
 <div align='center'>
   
@@ -20,7 +20,7 @@
 
 </div>
 
-<h1 align='center'> Stats </h1>
+<h2 align='center'> Stats </h2>
 <br>
 
 <p align="center">
@@ -36,8 +36,16 @@
 </a>
 </p>
 
+<h2 align='center'> Contact </h2>
 
+<div align='center'>
 
+[![](https://img.shields.io/badge/-@kevinnog-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/kevinnog)
+[![](https://img.shields.io/badge/-@kevinnog-%23181717?style=flat-square&logo=github)](https://github.com/kevinnog)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=google-messages)]
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 
+</div>
 
 
