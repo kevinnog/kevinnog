@@ -4,9 +4,7 @@
 
 <br>
 
-
-
-#### ![kevinnog's header](https://github.com/kevinnog/kevinnog/blob/main/assets/stacks.svg =100x20) <h2 align='center'> Stack </h2>
+<h2 align='center'><img align="rigth" width="25" src="https://github.com/kevinnog/kevinnog/blob/main/assets/stacks.svg" /> Stack </h2>
 
 <div align='center'>
   
@@ -24,7 +22,7 @@
 
 </div>
 
-<h2 align='center'> Stats </h2>
+<h2 align='center'><img align="rigth" width="25" src="https://github.com/kevinnog/kevinnog/blob/main/assets/stats.svg" /> Stats </h2>
 <br>
 
 <p align="center">
@@ -40,7 +38,7 @@
 </a>
 </p>
 
-<h2 align='center'> Contact </h2>
+<h2 align='center'><img align="rigth" width="25" src="https://github.com/kevinnog/kevinnog/blob/main/assets/contact.svg" /> Contact </h2>
 
 <div align='center'>
   
