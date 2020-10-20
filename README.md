@@ -1,4 +1,6 @@
-<h1 align='center'> Hi there! :wave:</h1>
+<h1 align='center'> Welcome mate! :wave:</h1>
+
+## [![stephen ajulu's header](https://github.com/kevinnog/kevinnog/blob/master/assets/profile-image.jpg)](https://stephenajulu.com)
 
 <br>
 
