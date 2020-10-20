@@ -22,7 +22,7 @@
 
 </div>
 
-<h2 align='center'><img align="rigth" width="25" src="https://github.com/kevinnog/kevinnog/blob/main/assets/stats.svg" /> Stats </h2>
+<h2 align='center'>:signal_strength: Stats </h2>
 <br>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </a>
 </p>
 
-<h2 align='center'><img align="rigth" width="25" src="https://github.com/kevinnog/kevinnog/blob/main/assets/contact.svg" /> Contact </h2>
+<h2 align='center'>:mailbox_with_mail: Contact </h2>
 
 <div align='center'>
   
