@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align='center'><img align="rigth" width="25" src="https://github.com/kevinnog/kevinnog/blob/main/assets/stacks.svg" /> Stacks & Technologies </h2>
+<h2 align='center'><img align="rigth" width="25" src="https://github.com/kevinnog/kevinnog/blob/main/assets/stacks.svg" /> Technologies </h2>
 
 <div align='center'>
   
