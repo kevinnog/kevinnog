@@ -12,7 +12,7 @@
 ![React Native](https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2300C7B7?style=flat-square&logo=MongoDB&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
